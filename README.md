@@ -145,8 +145,12 @@ The current implementation is efficient for small to medium datasets (e.g., doze
 
 This design allows seamless scaling to enterprise-level UAV traffic management.
 
+## License
+
+This repository is provided under the MIT License.
+
 ## Contributing and License
 
-Contributions are welcome; please submit pull requests for improvements. This project is licensed under the MIT License—see LICENSE file for details.
+Contributions are welcome. Please submit pull requests for improvements. 
 
 For questions or issues, open a GitHub issue.
